@@ -226,7 +226,7 @@ systemctl restart nginx
 }
 IPVPS=$(curl -s ipinfo.io/ip )
 clear
-figlet 'System Electric' | lolcat
+figlet 'Alwi Sayang Janda' | lolcat
 echo -e "${BICyan} ┌─────────────────────────────────────────────────────┐${NC}"
 echo -e "${BICyan} │                  ${BIWhite}${UWhite}Server Informations${NC}"
 echo -e "${BICyan} │"
